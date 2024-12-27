@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Container, Row, Col, Form, FormGroup, Button, Spinner } from "reactstrap";
 import { Link, useNavigate } from "react-router-dom";
-import "../styles/login.css";
+import "./login.css";
 import loginImg from "../assets/images/tour-img02.jpg";
 import userIcon from "../assets/images/user.png";
 
