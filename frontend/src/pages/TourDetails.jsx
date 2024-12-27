@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react";
-import "./../styles/tour-details.css";
+import "./tour-details.css";
 import { Container, Row, Col, Form, ListGroup } from "reactstrap";
 import { useParams } from "react-router-dom";
 import axios from "axios"; // Make sure to install axios
