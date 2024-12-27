@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Container, Row, Col, Form, FormGroup, Button } from "reactstrap";
 import { Link } from "react-router-dom";
-import "../styles/login.css";
+import "./login.css";
 
 import registerImg from "../assets/images/tour-img04.jpg";
 import userIcon from "../assets/images/user.png";
