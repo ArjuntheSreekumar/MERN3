@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/home.css";
+import "./home.css";
 import { Container, Row, Col } from "reactstrap";
 import Subtitle from "../shared/Subtitle";
 import FeaturedTourList from "../components/Featured-tours/FeaturedTourList";
